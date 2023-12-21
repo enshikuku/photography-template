@@ -36,6 +36,3 @@ If you would like to contribute to the project, please follow these steps:
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to update and customize the content further based on your preferences and project details.
